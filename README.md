@@ -37,7 +37,7 @@ Le projet suit une architecture orientée objet, avec les classes principales su
 
 1. Clonez le dépôt :
     ```bash
-    git clone https://github.com/votre-utilisateur/lo21-projet-machi-koro.git
+    git clone git@github.com:TobiasInfo/UTC-LO21-Project.git
     ```
 
 2. Accédez au répertoire du projet :
